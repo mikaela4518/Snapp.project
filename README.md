@@ -1,7 +1,7 @@
 # Snapp.project
 
 
-### طراحی فرانت سایت اسنپ :
+### طراحی فرانت سایت اسنپ &#128661;:
 <br><br>
 ![snapp](https://github.com/mikaela4518/Snapp.project/assets/143528080/c8699147-3fc9-42fa-b09a-2b138ceb22e1)
 
@@ -28,5 +28,12 @@ This site is very successful and well-known among people, so I saw the design of
 - دقت به جزئیات در خروجی پروژه 
 - ساخته شده با زبان html-css
 - کامنت گذاری
-- دقت به تمیز بودن کد 
+- دقت به تمیز بودن کد
+
+
+  این پروژه تیمی انجام شده است و تشکر میکنم از هم تیمی های خوبم برای اجرای این پروژه &#128591;
+    #### اعضای تیم
+  - [خانم مائده خسروی نیا](https://github.com/Maedeh82khosravii)
+  - [اقای مبین محزون زاده](https://github.com/mobiiiin)
+  - [اقای علی علوی](https://github.com/alialavi573)
   
